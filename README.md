@@ -11,3 +11,5 @@ HIS_NBP - the length of the quotation history that interests us.
 Requirements:
 - Python3 - any version,
 - requests module.
+
+Based on documentation: http://api.nbp.pl/
